@@ -1,0 +1,167 @@
+[
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Cual fue el primer presidente constitucional argentino?",
+        "opcion": [
+            "Justo José de Urquiza",
+            "Bernardino Rivadavia",
+            "Julio Argentino Roca",
+            "Domingo Faustino Sarmiento"
+        ],
+        "respuesta": 0
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Qué presidente ha ocupado más veces este cargo?",
+        "opcion": [
+            "Juan Domingo Perón",
+            "Julio Argentino Roca",
+            "Carlos Saul Menem",
+            "Hipólito Yrigoyen"
+        ],
+        "respuesta": 0
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En que año se declaró la Constitución Nacional Argentina?",
+        "opcion": [
+            "1952",
+            "1953",
+            "1954",
+            "1955"
+        ],
+        "respuesta": 1
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿En que año se enfrentó Argentina por las Islas Malvinas?",
+        "opcion": [
+            "1984",
+            "1983",
+            "1982",
+            "1981"
+        ],
+        "respuesta": 2
+    },
+    {
+        "categoria": "Historia",
+        "pregunta": "¿Quién fué el presidente de la Firma de la Independencia Argentina?",
+        "opcion": [
+            "José de San Martin",
+            "Bernardino Rivadavia",
+            "Juan José Paso",
+            "Francisco Narciso de Laprida"
+        ],
+        "respuesta": 3
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿En que año Argentina no fué al Mundial?",
+        "opcion": [
+            "1954",
+            "1934",
+            "1984",
+            "1994"
+        ],
+        "respuesta": 1
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Qué equipo Argentino tiene más copas libertadores?",
+        "opcion": [
+            "Independiente",
+            "River",
+            "Boca",
+            "Racing"
+        ],
+        "respuesta": 0
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuántas Champions tiene el Real Madrid?",
+        "opcion": [
+            "12",
+            "14",
+            "10",
+            "11"
+        ],
+        "respuesta": 1
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuántos goles hizo Maradona en la final de 1986?",
+        "opcion": [
+            "1",
+            "2",
+            "3",
+            "Ninguno"
+        ],
+        "respuesta": 3
+    },
+    {
+        "categoria": "Deporte",
+        "pregunta": "¿Cuál es el equipo con mayor copas internacionales en Argentina",
+        "opcion": [
+            "Boca",
+            "Independiente",
+            "River",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el metal más denso?",
+        "opcion": [
+            "Platino",
+            "Plomo",
+            "Osmio",
+            "Oro"
+        ],
+        "respuesta": 2
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es el último elemento de la tabla periódica ?",
+        "opcion": [
+            "Orgamesón",
+            "Plutonio",
+            "Uranio",
+            "Fermio"
+        ],
+        "respuesta": 0
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál es la velocidad de la luz?",
+        "opcion": [
+            "300.000m/s",
+            "280,000m/s",
+            "300.000km/s",
+            "Ninguno de los anteriores"
+        ],
+        "respuesta": 0
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuántas veces entraría la tierra en el sol?",
+        "opcion": [
+            "150",
+            "200",
+            "300",
+            "100"
+        ],
+        "respuesta": 3
+    },
+    {
+        "categoria": "Ciencia",
+        "pregunta": "¿Cuál de los siguientes elementos es más tóxico?",
+        "opcion": [
+            "Mercurio",
+            "Plomo",
+            "Arsénico",
+            "Bersilio"
+        ],
+        "respuesta": 0
+    }
+]
